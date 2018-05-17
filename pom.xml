@@ -26,9 +26,9 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>release</id>
-			<name>releases</name>
-			<url>http://ec2-18-206-248-71.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
+			<id>central</id>
+        <name>ip-172-31-93-154-releases</name>
+        <url>http://ec2-18-206-248-71.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 		<id>snapshots</id>
